@@ -1,0 +1,7 @@
+Day 5 - Agenda
+-Encapsulation - Properties
+-Abstract classes,Interfaces
+-Types - Static,Sealed,Struct
+-Collection - non-generic-collection-
+ArrayList,Hashtable,SortedList
+Generic collection -

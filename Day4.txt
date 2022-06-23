@@ -1,0 +1,15 @@
+Day 4 - Oops
+-Object Oriented programming
+-Class vs Object
+-Four principles
+-Encapsulation
+-Abstraction
+-Polymorphism
+-Inheritance
+
+Implementation in C#
+Class, Objects
+-Members - Fields, functions/methods,
+constructors,destructors
+Relationship
+Access specifiers
